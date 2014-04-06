@@ -1,0 +1,31 @@
+{
+  "name": "9-GetExpress",
+  "version": "0.0.0",
+  "description": "Handling Get Requests with Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rantoine/mongo-node-m101js"
+  },
+  "keywords": [
+    "M101JS",
+    "Node",
+    "MongoDB",
+    "Mongo",
+    "University",
+    "npm"
+  ],
+  "author": "Glenn Antoine <me@glennantoine.com> (http://glennantoine.com/)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/rantoine/mongo-node-m101js/issues"
+  },
+  "homepage": "https://github.com/rantoine/mongo-node-m101js",
+  "dependencies": {
+    "express": "~3.4.8",
+    "consolidate": "~0.10.0"
+  }
+}

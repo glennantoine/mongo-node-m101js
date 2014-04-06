@@ -1,0 +1,22 @@
+{
+  "name": "mongoose-blog-app",
+  "version": "0.0.1",
+  "description": "Blog application built with Mongoose, Express, and Jade",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoose",
+    "express",
+    "mongodb",
+    "jade"
+  ],
+  "author": "Glenn Antoine <me@glennantoine.com>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "mongoose": "~3.8.8",
+    "express": "~3.4.8",
+    "jade": "~1.1.5"
+  }
+}
